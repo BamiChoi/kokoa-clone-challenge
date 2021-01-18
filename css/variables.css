@@ -1,0 +1,9 @@
+:root {
+  --yellow: #fae100;
+  --horizontal-space: 25px;
+  --notification-color: tomato;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+  --gray: rgba(0, 0, 0, 0.5);
+  --brown: #3d1d1f;
+  --chatblue: #abc1d0;
+}
